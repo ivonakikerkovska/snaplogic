@@ -4,7 +4,7 @@ CSV Parser- To read the csv data from the zip file
 Maper- To transform incoming data using the given mappings
 Filter- To filter a document data by given expression
 Sort- to sort the data
-Excel Formatter - to convert the document in xlsx format
+CSV Formatter - to convert the document in csv format
 File Write - to write and save the new data
 
 Additional notes
